@@ -1,1 +1,3 @@
-README for Data Science
+
+
+## Major: International Economics LLR 
