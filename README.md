@@ -1,25 +1,12 @@
-# Hi, I'm Suzy Malshyti!
+## Purpose 
 
-<img width="300" height="300" alt="Headshot " src="https://github.com/user-attachments/assets/a1d67414-8216-4e78-acb2-154fd912b38f" />
+This repository serves as a collection of my data science projects, completed as part of my Data Science minor coursework at the University of Notre Dame. It showcases my skills in exploratory data analysis, data visualization, and machine learning, and reflects my broader interest in applying data science to areas like health & wellness, fashion, and consumer behavior. This portfolio will grow throughout the semester as I complete new projects and continue developing my technical skills.
 
+##Repository Structure 
 
-## About Me
-I'm a senior at the **University of Notre Dame**, studying **International Economics** 
-with a concentration in **Italian Studies** and a **Data Science Minor**. I'm from 
-New York City and plan to move back after graduation.
+As I add projects, I plan to organize this repository into specific sections. 
 
-I'm a **first-generation student** with family roots in Albania. I had the opportunity 
-to study abroad in **Rome**, where I conducted research in the **Italian Fashion Industry** 
-an experience that shaped my interest in using data to understand consumer behavior, 
-trends, and the business side of fashion.
+-EDA- Exploratory data analysis:  summary statistics and insights from the project. 
+-Visualizations: Data visualizations to communicate findings 
+-Datasets: Raw or cleaned data used for each project 
 
-I'm passionate about **health, wellness, and fashion**, and outside of academics, you'll 
-usually find me at a Pilates class, drinking matcha, traveling, or trying a new restaurant with friends.
-
-
-
-## Technical Skills
-* Excel
-* Tableau
-* Microsoft 365
-* Microsoft PowerPoint
