@@ -6,7 +6,7 @@ This repository serves as a collection of my data science projects, completed as
 
 As I add projects, I plan to organize this repository into specific sections. 
 
--EDA- Exploratory data analysis:  summary statistics and insights from the project. 
--Visualizations: Data visualizations to communicate findings 
--Datasets: Raw or cleaned data used for each project 
+- EDA- Exploratory data analysis:  summary statistics and insights from the project. 
+- Visualizations: Data visualizations to communicate findings 
+- Datasets: Raw or cleaned data used for each project 
 
