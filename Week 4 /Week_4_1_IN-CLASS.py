@@ -95,13 +95,38 @@ elif method == "Impute Median ":
 elif method == "Impute Zero":
     df_clean[columns] = df_clean[columns].fillna(0) 
 
-
-
-
+st.dataframe(df_clean)
 
 # ------------------------------------------------------------------------------
 # Compare Data Distributions: Original vs. Cleaned
 #
 # Display side-by-side histograms and statistical summaries for the selected column.
 # ------------------------------------------------------------------------------
+col1, col2 = st.columns(2)
+
+#orginal Data visulaization
+
+with col1: 
+    st.subheader ("Original Data Distribution")
+
+    fig, ax = plt.subplots()
+    sns.histplot(df[columns], kde= True)
+    plt.title(f"Original Distrubution of {columns}")
+    st.pyplot(fig)
+    st.subheader(f"{columns}'s Original Status")
+    st.write(df[columns].describe())
+
+
+# Cleaned Data Vis 
+
+with col1: 
+    st.subheader ("Cleaned Data Distribution")
+    #Plot a histogram 
+    fig, ax = plt.subplots()
+    sns.histplot(df[columns], kde= True)
+    plt.title(f"Cleaned Distrubution of {columns}")
+    st.pyplot(fig)
+    st.subheader(f"{columns}'s Cleaned Stats")
+    #Display statistical summary for the selected column 
+    st.write(df_clean[columns].describe())
 
