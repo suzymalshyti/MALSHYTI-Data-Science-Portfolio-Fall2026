@@ -5,9 +5,9 @@ st.title ("Palmer's Penguins Explorer")
 
 st.write("This app allows users to explore the Palmer's Penguins dataset by filtering penguin species, island,and body mass")
 
-df = pd.read_csv("penguins.csv")
+df = pd.read_csv("/Users/suzymalshyti/Desktop/MALSHYTI-Data-Science-Portfolio-Fall2026/ basic_streamlit_app/penguins.csv")
 
-species = st.multiselect(
+species = st.selectbox(
     "Select species",
     df["species"].unique()
 )
@@ -15,7 +15,7 @@ species = st.multiselect(
 results = df[df["species"] == species]
 
 
-island = st.multiselect(
+island = st.selectbox(
     "Select island",
     df["island"].unique()
 )
