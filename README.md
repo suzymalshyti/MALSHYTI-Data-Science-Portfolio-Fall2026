@@ -19,7 +19,7 @@ For my first project, I created an interactive Streamlit application using the P
 
 Project 2: Tidy Data Project — 2008 Olympic Medalists
 
-View My Tidy Data Project
+[View My Tidy Data Project](https://github.com/suzymalshyti/MALSHYTI-Data-Science-Portfolio-Fall2026/tree/main/TidyData-Project)
 
 For my second project, I worked with a dataset containing information about medalists from the 2008 Summer Olympics. I used Python and pandas to clean and organize the dataset, practice reshaping data, and create a pivot table and visualizations to compare medalist records across countries, sports, and medal types.
 
