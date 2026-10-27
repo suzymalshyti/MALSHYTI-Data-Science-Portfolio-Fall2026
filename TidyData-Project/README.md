@@ -1,12 +1,12 @@
-**##Tidy Data Project: 2008 Olympic Medalists**
+# Tidy Data Project: 2008 Olympic Medalists
 
-**#Project Overview**
+## Project Overview
 
 For this project, I used a dataset containing information about medalists from the 2008 Summer Olympics.
 The goal was to practice cleaning, reshaping, and analyzing data using Python and pandas while following tidy data principles.
 
 
-**#Dataset Information:**
+## Dataset Information:
 
 The dataset used in this project is 2008_medalists_all.csv, which contains information about medalists from the 2008 Summer Olympics.
 
@@ -21,7 +21,7 @@ medal: Type of medal received (gold, silver, or bronze)
 I checked for missing values using isnull().sum() and found no missing values in the five selected columns. 
 I also used str.replace() to shorten event names and drop_duplicates() to remove duplicate records.
 
-**#Data Analysis: **
+## Data Analysis:
 
 I used several pandas functions throughout the project:
 
@@ -35,7 +35,7 @@ str.split() to practice separating text into columns.
 pd.pivot_table() with aggfunc="count" to summarize medalist records by country and medal type.
 
 
-**Visualizations: **
+## Visualizations: 
 
 I created three visualizations using pandas and Matplotlib:
 
@@ -43,7 +43,7 @@ Olympic Medal Distribution: A bar chart comparing gold, silver, and bronze medal
 Medalist Records by Sport: A bar chart comparing the number of medalist records across Olympic sports.
 Top Five Countries by Medalist Records: A pie chart showing the distribution of records among the five countries with the highest counts.
 
-**#Instructions: **
+## Instructions: 
 
 1. Download the TidyData-Project folder from GitHub.
 2. Make sure Python and Jupyter Notebook are installed.
@@ -52,7 +52,7 @@ Top Five Countries by Medalist Records: A pie chart showing the distribution of 
 6. Make sure 2008_medalists_all.csv is in the same folder as the notebook.
 7. Run the notebook cells to view the data cleaning steps, pivot table, and visualizations.
 
-**#References:**
+## References:
 
 1. [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 2. Course notebooks: Week 5.1 and Week 5.2
