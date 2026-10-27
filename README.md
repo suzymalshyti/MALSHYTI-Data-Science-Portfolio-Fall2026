@@ -10,3 +10,18 @@ As I add projects, I plan to organize this repository into specific sections.
 - Visualizations: Data visualizations to communicate findings 
 - Datasets: Raw or cleaned data used for each project 
 
+
+## Projects 
+
+Project 1: Palmer Penguins Explorer
+
+For my first project, I created an interactive Streamlit application using the Palmer Penguins dataset. This project helped me practice Python programming, working with datasets, and creating interactive features that allow users to explore data.
+
+Project 2: Tidy Data Project — 2008 Olympic Medalists
+
+View My Tidy Data Project
+
+For my second project, I worked with a dataset containing information about medalists from the 2008 Summer Olympics. I used Python and pandas to clean and organize the dataset, practice reshaping data, and create a pivot table and visualizations to compare medalist records across countries, sports, and medal types.
+
+This project builds on my first project by focusing more on data cleaning and organization. While my Palmer Penguins Explorer project helped me practice creating interactive applications, my Tidy Data Project helped me understand how to prepare datasets for analysis. Together, these projects demonstrate my growing skills in Python, data manipulation, and data visualization.
+
