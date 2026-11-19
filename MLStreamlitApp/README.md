@@ -31,27 +31,22 @@ Follow these steps to run the application on your computer.
 
 ### Step 1: Clone the GitHub repository
 
-```
-git clone YOUR-GITHUB-REPOSITORY-LINK
-```
+"git clone YOUR-GITHUB-REPOSITORY-LINK"
 
 ### Step 2: Navigate to the project folder
 
-```
-cd MALSHYTI-Data-Science-Portfolio-Fall2026/MLStreamlitApp
-```
+"cd MALSHYTI-Data-Science-Portfolio-Fall2026/MLStreamlitApp"
 
 ### Step 3: Install the required libraries
 
-```
-pip install -r requirements.txt
-```
+"pip install -r requirements.txt"
+
 
 ### Step 4: Run the Streamlit application
 
-```
-streamlit run app.py
-```
+
+"streamlit run app.py"
+
 
 The application will open in your web browser.
 
