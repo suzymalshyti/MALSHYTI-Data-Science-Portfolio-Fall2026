@@ -23,7 +23,7 @@ The Starbucks nutrition dataset used in this project was used from Kaggle.
 
 ## 3. Deployed Application
 
-**Streamlit App:** Add your deployed Streamlit application link here.
+**Streamlit App:** (https://malshyti-data-science-portfolio-fall2026-9x7ve3nff9bidbkohkxzu.streamlit.app/) 
 
 ## 4. Running the App Locally
 
