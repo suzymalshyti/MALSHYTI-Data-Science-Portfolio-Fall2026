@@ -39,11 +39,9 @@ Follow these steps to run the application on your computer.
 
 ### Step 3: Install the required libraries
 
-"pip install -r requirements.txt"
-
+"pip install pipreqs", then run the command "pipreqs"
 
 ### Step 4: Run the Streamlit application
-
 
 "streamlit run app.py"
 
