@@ -35,7 +35,7 @@ data_option = st.selectbox(
 
 )
 if data_option == "Use Starbucks sample dataset":
-    sample_data = pd.read_csv("MLStreamltApp/starbucks.csv")
+    sample_data = pd.read_csv("MLStreamlitApp/starbucks.csv")
     st.write("Starbucks sample dataset selected")
 
 else:
