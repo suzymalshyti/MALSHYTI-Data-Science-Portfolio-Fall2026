@@ -17,9 +17,9 @@ Users can:
 
 ## 2. Dataset Source
 
-The Starbucks nutrition dataset used in this project was obtained from Kaggle.
+The Starbucks nutrition dataset used in this project was used from Kaggle.
 
-**Dataset:** [Starbucks Nutrition Dataset on Kaggle](PASTE YOUR KAGGLE DATASET LINK HERE)
+**Dataset:** [Starbucks Nutrition Dataset on Kaggle](https://www.kaggle.com/datasets/utkarshx27/starbucks-nutrition))
 
 ## 3. Deployed Application
 
